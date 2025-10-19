@@ -1,7 +1,7 @@
 
 <img width="1283" height="908" alt="image" src="https://github.com/user-attachments/assets/2c3c0845-7e63-420b-b81c-9f67b8ae95ee" />
 
-# 🚀 Master LLM Chat - Custom Transformer Language Model
+# Master LLM Chat - Custom Transformer Language Model
 
 A complete implementation of a custom transformer-based language model with an interactive chat interface built using Gradio. This project features a modern, responsive UI with neon-green theme and advanced neural architecture components.
 
